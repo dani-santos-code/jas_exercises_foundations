@@ -19,6 +19,13 @@ Here you can find some examples of how to apply JS.
 
 - Alert the user that he/she can only add a paragraph once, in case the user keeps clicking. 🤦‍🤦‍♀️
 
+- Useful Resources:
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+https://medium.com/javascript-in-plain-english/how-to-traverse-the-dom-in-javascript-d6555c335b4e
+https://zellwk.com/blog/dom-traversals/
+
+
 ## More "advanced" challenge
 
 - Assuming you went through the whole Flask Tutorial and are familiar with templating in Flask (Jinja), consume the [Pokemon API](https://pokeapi.co/docs/v2.html) to display a list of pokemons with their names. Feel free to be creative and design something fancier and more beautiful.
