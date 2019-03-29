@@ -37,6 +37,8 @@ https://codepen.io/dani-santos-code/pen/yrBywE
 
 - Assuming you went through the whole Flask Tutorial and are familiar with templating in Flask (Jinja), consume the [Pokemon API](https://pokeapi.co/docs/v2.html) to display a list of pokemons with their names. Feel free to be creative and design something fancier and more beautiful.
 
+- When the user clicks on the button, all the information should disappear and the user should see a message that reads: "No Pokemons Left"
+
 Expected output should look something like this:
 
 <p align="center">
