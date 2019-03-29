@@ -21,10 +21,10 @@ Here you can find some examples of how to apply JS.
 
 - Useful Resources:
 
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
-https://medium.com/javascript-in-plain-english/how-to-traverse-the-dom-in-javascript-d6555c335b4e
-https://zellwk.com/blog/dom-traversals/
-
+1) https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+2) https://zellwk.com/blog/dom-traversals/
+3) https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d
+4) https://blog.codeanalogies.com/2018/01/06/traversing-the-dom-visual-explanation/
 
 ## More "advanced" challenge
 
@@ -37,3 +37,9 @@ Expected output should look something like this:
 </p>
 
 *Note*: Feel free to display more info and play with this API!
+
+## More Exercises:
+
+Go to https://www.rithmschool.com/courses/intermediate-javascript/javascript-dom-exercises or fork this codepen:
+https://codepen.io/dani-santos-code/pen/yrBywE
+
