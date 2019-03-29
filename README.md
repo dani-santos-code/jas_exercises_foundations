@@ -26,7 +26,14 @@ Here you can find some examples of how to apply JS.
 3) https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d
 4) https://blog.codeanalogies.com/2018/01/06/traversing-the-dom-visual-explanation/
 
-## More "advanced" challenge
+
+## More DOM Manipulation Exercises:
+
+Go to https://www.rithmschool.com/courses/intermediate-javascript/javascript-dom-exercises or fork this codepen:
+https://codepen.io/dani-santos-code/pen/yrBywE
+
+
+## API challenge
 
 - Assuming you went through the whole Flask Tutorial and are familiar with templating in Flask (Jinja), consume the [Pokemon API](https://pokeapi.co/docs/v2.html) to display a list of pokemons with their names. Feel free to be creative and design something fancier and more beautiful.
 
@@ -37,9 +44,3 @@ Expected output should look something like this:
 </p>
 
 *Note*: Feel free to display more info and play with this API!
-
-## More Exercises:
-
-Go to https://www.rithmschool.com/courses/intermediate-javascript/javascript-dom-exercises or fork this codepen:
-https://codepen.io/dani-santos-code/pen/yrBywE
-
