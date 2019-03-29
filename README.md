@@ -11,7 +11,7 @@ Here you can find some examples of how to apply JS.
 
 - Install Flask: `pip install flask`
 
-*Note*: You might have to install other dependencies, depending on your approach (for example, `pip install requests`)
+*Note*: You might have to install other dependencies, depending on your approach 
 
 ## Mini Challenge
 
