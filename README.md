@@ -42,7 +42,7 @@ https://codepen.io/dani-santos-code/pen/yrBywE
 Expected output should look something like this:
 
 <p align="center">
-    <img src="example.png" width="300" title="example">
+    <img src="example.gif" width="300" title="example">
 </p>
 
 *Note*: Feel free to display more info and play with this API!
