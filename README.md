@@ -17,7 +17,7 @@ Here you can find some examples of how to apply JS.
 
 - Using the `flask_example` as a reference, you will see that each time we click on the button, a paragraph is appended to the DOM element `main` (or `main` tag). Make adjustments so it will only be appended once.
 
-- Alert the user that he/she can only add a paragraph once, in case the user keeps clicking. 🤦‍🤦‍
+- Alert the user that he/she can only add a paragraph once, in case the user keeps clicking. 🤦‍🤦‍♀️
 
 ## More "advanced" challenge
 
