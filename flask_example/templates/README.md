@@ -2,7 +2,7 @@
 
 - Create a virtual environment: `virtualenv venv`
 
-- Activate the environment: `source activate venv/bin/activate`
+- Activate the environment: `source venv/bin/activate`
 
 - Install Flask: `pip install flask`
 
