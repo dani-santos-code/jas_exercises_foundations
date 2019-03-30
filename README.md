@@ -13,7 +13,7 @@ Here you can find some examples of how to apply JS.
 
 *Note*: You might have to install other dependencies, depending on your approach (for example, `pip install requests`) 
 
-## Mini Challenge
+## Mini Challenge (optional)
 
 - Using the `flask_example` as a reference, you will see that each time we click on the button, a paragraph is appended to the DOM element `main` (or `main` tag). Make adjustments so it will only be appended once.
 
