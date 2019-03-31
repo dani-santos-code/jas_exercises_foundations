@@ -1,9 +1,10 @@
 document.addEventListener("DOMContentLoaded", function() {
 
   function createParagraph() {
-      let paragraph = document.createElement('p');
-      paragraph.textContent = 'You clicked the button!';
-      document.getElementById("main").appendChild(paragraph);
+      var paragraphEl = document.createElement('p');
+      paragraphEl.textContent = 'You clicked the button!';
+      document.getElementById("main").appendChild(paragraphEl);
   }
     document.addEventListener('click', createParagraph);
+    
 });
