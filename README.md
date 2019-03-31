@@ -29,7 +29,7 @@ Here you can find some examples of how to apply JS.
 Expected output should look something like this:
 
 <p align="center">
-    <img src="challenge1.gif" width="300" title="example">
+    <img src="challenge1.gif" width="600" title="example">
 </p>
 
 
