@@ -11,9 +11,9 @@ Here you can find some examples of how to apply JS.
 
 - Install Flask: `pip install flask`
 
-*Note*: You might have to install other dependencies, depending on your approach (for example, `pip install requests`) 
+*Note*: You might have to install other dependencies, depending on your approach (for example, `pip install requests`)
 
-## Mini Challenge 
+## Mini Challenge
 
 - Using the `flask_example` as a reference, you will see that each time we click on the button, a paragraph is appended to the DOM element `main` (or `main` tag). Make adjustments so it will only be appended once.
 
@@ -25,6 +25,12 @@ Here you can find some examples of how to apply JS.
 2) https://zellwk.com/blog/dom-traversals/
 3) https://medium.freecodecamp.org/whats-the-document-object-model-and-why-you-should-know-how-to-use-it-1a2d0bc5429d
 4) https://blog.codeanalogies.com/2018/01/06/traversing-the-dom-visual-explanation/
+
+Expected output should look something like this:
+
+<p align="center">
+    <img src="challenge1.gif" width="300" title="example">
+</p>
 
 
 ## More DOM Manipulation Exercises:
@@ -42,7 +48,7 @@ https://codepen.io/dani-santos-code/pen/yrBywE
 Expected output should look something like this:
 
 <p align="center">
-    <img src="example.gif" width="300" title="example">
+    <img src="challenge2.gif" width="200" title="example">
 </p>
 
 *Note*: Feel free to display more info and play with this API!

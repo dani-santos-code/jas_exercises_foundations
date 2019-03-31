@@ -1,8 +1,12 @@
-const para = document.querySelector('p');
+document.addEventListener("DOMContentLoaded", function() {
 
-para.addEventListener('click', updateName);
+  var paragraphEl = document.querySelector('p');
 
-function updateName() {
-  let name = prompt('Enter a new name');
-  para.textContent = 'Player 1: ' + name;
-}
+  function updateName () {
+    var name = prompt('Enter a new name');
+    paragraphEl.textContent = 'Player 1: ' + name;
+  }
+
+  paragraphEl.addEventListener('click', updateName);
+  
+});
