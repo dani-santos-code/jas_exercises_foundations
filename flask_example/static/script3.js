@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
       paragraphEl.textContent = 'You clicked the button!';
       document.getElementById("main").appendChild(paragraphEl);
   }
-    document.addEventListener('click', createParagraph);
-    
+    var buttonEl = document.querySelector('button')
+    buttonEl.addEventListener('click', createParagraph);
+
 });
