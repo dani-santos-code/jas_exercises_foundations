@@ -11,9 +11,9 @@ Here you can find some examples of how to apply JS.
 
 - Install Flask: `pip install flask`
 
-*Note*: You might have to install other dependencies, depending on your approach (for example, `pip install requests`)
+*Note*: You might have to install other dependencies, depending on your approach (for example, `pip install requests`) 
 
-## Mini Challenge
+## Mini Challenge 
 
 - Using the `flask_example` as a reference, you will see that each time we click on the button, a paragraph is appended to the DOM element `main` (or `main` tag). Make adjustments so it will only be appended once.
 
@@ -33,7 +33,7 @@ Go to https://www.rithmschool.com/courses/intermediate-javascript/javascript-dom
 https://codepen.io/dani-santos-code/pen/yrBywE
 
 
-## API challenge
+## API challenge (optional)
 
 - Assuming you went through the whole Flask Tutorial and are familiar with templating in Flask (Jinja), consume the [Pokemon API](https://pokeapi.co/docs/v2.html) to display a list of pokemons with their names. Feel free to be creative and design something fancier and more beautiful.
 
