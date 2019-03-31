@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
     var buttonEl = document.querySelector('button');
     buttonEl.addEventListener('click', createParagraph);
-    
+
 });
 
 

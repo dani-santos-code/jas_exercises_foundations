@@ -8,5 +8,5 @@ document.addEventListener("DOMContentLoaded", function() {
   }
 
   paragraphEl.addEventListener('click', updateName);
-  
+
 });
