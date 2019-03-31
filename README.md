@@ -2,8 +2,8 @@
 Here you can find some examples of how to apply JS.
 
 
-
 ## Setting Up Your Flask Environment
+(Make sure you have `pip` and `virtualenv` installed!)
 
 - Create a virtual environment called `venv`: `virtualenv venv`
 
